@@ -5,3 +5,4 @@ d
 e
 fast change
 change on master
+change for rebase without conflict
