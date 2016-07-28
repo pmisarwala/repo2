@@ -6,4 +6,8 @@ e
 fast change
 change on master
 change for rebase without conflict
+<<<<<<< 06e3f2e5e0ddd19a9241b57bd4c07ea4fcd8374d
 change on master for rebase with conflict
+=======
+change for rebase with conflict
+>>>>>>> commit for rebase with conflict on branch6
