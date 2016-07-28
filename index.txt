@@ -6,3 +6,4 @@ e
 fast change
 change on master
 change for rebase without conflict
+change on master for rebase with conflict
